@@ -1,0 +1,176 @@
+{
+  "english": {
+    "role": {
+      "text": "Full-Stack Web Developer"
+    },
+    "presentation": {
+      "text": "Full-stack web developer with over three years of experience analyzing, developing and integrating front-end and back-end based applications. Possesses knowledge of web applications using HTML, CSS, Javascript, React.js, Node.js, Typescript, Oracle, MySQL, MongoDB and RabbitMQ."
+    },
+    "header": {
+      "menu": [
+        {
+          "item": "home",
+          "ref": "home"
+        },
+        {
+          "item": "resume",
+          "ref": "resume"
+        },
+        {
+          "item": "projects",
+          "ref": "projects"
+        },
+        {
+          "item": "certificates",
+          "ref": "certificates"
+        },
+        {
+          "item": "get in touch",
+          "ref": "get-in-touch"
+        }
+      ]
+    },
+    "resume": {
+      "title": "Resume",
+      "subtitle": "Work experience",
+      "text": "Full-stack web developer with over three years of experience analyzing, developing and integrating front-end and back-end based applications. Possesses knowledge of web applications using HTML, CSS, Javascript, React.js, Node.js, Typescript, Oracle, MySQL, MongoDB and RabbitMQ. Key achievement: created a stable web application to receive a legal bank document demanded by the authorities, who helped to analyze and process the necessary data."
+    },
+    "experience": {
+      "fineasy": [
+        "Worked on improvements to existing api, improving their organization and performance.",
+        "Worked with a team on the creation and maintenance of an api responsible for receiving and processing large files using Node, Express, Oracle and RabbitMQ.",
+        "Implemented new screens for the portal service of a financial institution using React.",
+        "Assisted in training and supporting new members of the team."
+      ],
+      "webart": [
+        "Worked on improvements to existing web designs.",
+        "Implemented new designs for existing web sites with the UI/UX team using Vue."
+      ],
+      "uoou": [
+        "Assisted a team of web developers in creating and maintaining e-commerce websites.",
+        "Implemented new shipping integrations using REST and SOAP."
+      ]
+    },
+    "certificates": {
+      "title": "Certificados",
+      "buttonText": "See more >",
+      "text": "I have a background in systems analysis and development and I am currently taking a postgraduate course in software engineering."
+    },
+    "projects": {
+      "title": "Projects",
+      "text": "There are some projects that I have worked using HTML, CSS, React, Vue, PHP, SQL and  others."
+    },
+    "getInTouch": {
+      "title": "Get In Touch",
+      "text": "Fill the form bellow to get in touch with me!",
+      "labels": {
+        "input": {
+          "email": {
+            "title": "Email",
+            "placeholder": "Please enter your email"
+          },
+          "number": {
+            "title": "Mobile",
+            "placeholder": "Please enter your mobile"
+          }
+        },
+        "textArea": {
+          "message": {
+            "title": "Message",
+            "placeholder": "Enter your message"
+          }
+        }
+      }
+    }
+  },
+  "portuguese": {
+    "role": {
+      "text": "Desenvolvedor Web Full Stack"
+    },
+    "presentation": {
+      "text": "Desenvolvedor Web Full Stack com mais de três anos de experiência analisando, desenvolvendo e integrando aplicações baseadas em front-end e back-end. Possuí conhecimento em aplicações web usando HTML, CSS, Javascript, Reac.js, Node.js, Typescript, Oracle, MySQL, MongoDB e RabbitMQ."
+    },
+    "header": {
+      "menu": [
+        {
+          "item": "home",
+          "ref": "home"
+        },
+        {
+          "item": "currículo",
+          "ref": "resume"
+        },
+        {
+          "item": "projetos",
+          "ref": "projects"
+        },
+        {
+          "item": "certificados",
+          "ref": "certificates"
+        },
+        {
+          "item": "entre em contato",
+          "ref": "get-in-touch"
+        }
+      ]
+    },
+    "resume": {
+      "title": "Currículo",
+      "subtitle": "Experiência",
+      "text": "Desenvolvedor web full stack com mais de três anos de experiência analisando, desenvolvendo e integrando aplicações front-end e back-end. Possuí conhecimento em aplicações web usando HTML, CSS, Javascript, React.js, Node.js, Typescript, Oracle, MySQL, MongoDB and RabbitMQ. Realização destaque: criou uma aplicação web estável para receber um documento legal bancário requisitado por autoridades, o que ajudou a analisar e processar os dados."
+    },
+    "experience": {
+      "fineasy": [
+        "Trabalhou em melhorias para apis existentes, melhorando suas organizações e performances.",
+        "Trabalhou com um tima na criação e manutenção de uma API responsável por receber e processar grandes arquivos, usando Node, Express, Oracle and RabbitMQ.",
+        "Implementou novas telas para o serviço de portal de uma instituição financeira usando React.",
+        "Ajudou no treinamento e suporte de novos membros do time."
+      ],
+      "webart": [
+        "Trabalhou em melhorias nos web designs existentes.",
+        "Implementou novos designs para sites existentes trabalhando com o time de UI/UX usando Vue."
+      ],
+      "uoou": [
+        "Auxiliou um time de desenvolvedores web na criação e manutenção de sites de e-commerce.",
+        "Implementou novas integrações de frete usando REST e SOAP."
+      ]
+    },
+    "certificates": {
+      "title": "Certificados",
+      "buttonText": "Ver mais >",
+      "text": "Tenho formação em análise e desenvolvimento de sistemas e estou atualmente cursando pós-graduação em engenharia de software."
+    },
+    "projects": {
+      "title": "Projetos",
+      "text": "Aqui estão alguns projetos que trabalhei usando HTML, CSS, React, Vue, PHP, SQL e outros."
+    },
+    "getInTouch": {
+      "title": "Entre em contato",
+      "text": "Preencha o formulário abaixo e entre em contato comigo!",
+      "labels": {
+        "input": {
+          "email": {
+            "title": "Email",
+            "placeholder": "Digite seu email"
+          },
+          "number": {
+            "title": "Celular",
+            "placeholder": "Digite seu celular"
+          }
+        },
+        "textArea": {
+          "message": {
+            "title": "Mensagem",
+            "placeholder": "Digite a sua mensagem"
+          }
+        }
+      }
+    }
+  },
+  "repositories": {
+    "items": [
+      476431134, 475103603, 495151428, 534731778, 394798238, 505445587, 508027966, 478741004,
+      491638806, 489753621, 510928701, 510928870, 481324788, 560150500
+    ]
+  }
+}
